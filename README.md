@@ -55,10 +55,7 @@ Advanced Load Balancing Algorithms
 Implement algorithms like Least Connection, Weighted Response Time for optimized performance.
 
 ##b Screenshots
-![q1](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/eb3eac30-e037-418f-9567-4fe70bdca7eb)
-![q2](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/63b9d7dc-3def-41af-970e-fabd1496929b)
-![q3](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/a4e54aac-0561-436e-8ca5-fa040701a25a)
-![ss](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/abcbed24-e6d2-4ace-b1f2-89d9f46ecf58)
+![q1](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/6c997be5-6436-48c7-8520-7b7c404779b3)
 
 
 https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/b729e0f5-d7f7-4b95-907c-5c9dc3086056
