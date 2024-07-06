@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Pawan\source\repos\c4\c4\main.cpp(39,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  c4.vcxproj -> C:\Users\Pawan\source\repos\c4\x64\Debug\c4.exe
