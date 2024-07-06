@@ -54,8 +54,8 @@ Connect servers to a database for dynamic content serving based on client reques
 Advanced Load Balancing Algorithms
 Implement algorithms like Least Connection, Weighted Response Time for optimized performance.
 
-![q1](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/6a3aa45d-cf10-4413-a9f1-608fdedde617)
 
+![q1](https://github.com/Pawan2030/Load-Balancer-Between-Multiple-Clients-and-Servers-project/assets/136910101/fdcf2a03-24f2-48e0-b878-fd7582bce6d0)
 
 ## Contributing
 Feel free to contribute to this project by forking it and submitting a pull request.
